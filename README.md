@@ -8,7 +8,6 @@ Network-Programming
 
 ### HTML Read
 HTML 읽기
-![screenshot1](./HTML Read/결과화면.png)
 
 ### Send and receive files (download files to server)
 파일 송수신 (서버에게 파일 다운로드 받기)
